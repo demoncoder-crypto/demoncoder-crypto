@@ -11,7 +11,7 @@
 
 - Open source Deepmind(Google)Langchain Contribution [https://github.com/langchain-ai/langchain-google/pull/826](https://github.com/langchain-ai/langchain-google/pull/826)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: dhillonprabhjitsingh@gmail.com</h3>
 <p align="left">
 </p>
 
