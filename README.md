@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demoncoder-crypto" alt="demoncoder-crypto" /></a> </p>
 
-- Open source Deepmind(Google)Torax Contribution [https://github.com/google-deepmind/torax/pull/884](https://github.com/google-deepmind/torax/pull/884)
-
+- Deepmind(Google)Torax -[(Link)](https://github.com/google-deepmind/torax/commits?author=demoncoder-crypto)
 - Open source Deepmind(Google)Mujoco Contribution [https://github.com/google-deepmind/mujoco/pull/2540](https://github.com/google-deepmind/mujoco/pull/2540)
 
 - Open source Deepmind(Google)Langchain Contribution [https://github.com/langchain-ai/langchain-google/pull/826](https://github.com/langchain-ai/langchain-google/pull/826)
