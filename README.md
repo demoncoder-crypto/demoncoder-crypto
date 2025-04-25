@@ -5,10 +5,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demoncoder-crypto" alt="demoncoder-crypto" /></a> </p>
 
-- Deepmind(Google)Torax -[(Link)](https://github.com/google-deepmind/torax/commits?author=demoncoder-crypto)
-- Open source Deepmind(Google)Mujoco Contribution [https://github.com/google-deepmind/mujoco/pull/2540](https://github.com/google-deepmind/mujoco/pull/2540)
+- Deepmind(Google)Torax - [(Link)](https://github.com/google-deepmind/torax/commits?author=demoncoder-crypto)
 
-- Open source Deepmind(Google)Langchain Contribution [https://github.com/langchain-ai/langchain-google/pull/826](https://github.com/langchain-ai/langchain-google/pull/826)
+- Deepmind(Google)Mujoco - [Link](https://github.com/google-deepmind/mujoco/pull/2540)
+
+- Deepmind(Google)Langchain - [Link](https://github.com/langchain-ai/langchain-google/pull/826)
+
+- Deepmid(Google)OSS Fuzz - [Link](https://github.com/google/oss-fuzz-gen/pulls?q=is%3Apr+author%3Ademoncoder-crypto)
+
+- Supabase - [Link](https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3Ademoncoder-crypto)
+
+- IBM Terratorch - [Link](https://github.com/IBM/terratorch/pulls?q=is%3Apr+author%3Ademoncoder-crypto)
+
+- Ray - [Link](https://github.com/ray-project/ray/pulls?q=is%3Apr+author%3Ademoncoder-crypto)
+
+- Material Android - [Link](https://github.com/material-components/material-components-android/pulls?q=is%3Apr+author%3Ademoncoder-crypto)
+
+- Movement(Neuroinfomatics unit) - [Link](https://github.com/neuroinformatics-unit/movement/pulls?q=is%3Apr+author%3Ademoncoder-crypto)
+
+- Elastic Search - [Link](https://github.com/elastic/elasticsearch/pulls?q=is%3Apr+author%3Ademoncoder-crypto)
 
 <h3 align="left">Connect with me: dhillonprabhjitsingh@gmail.com</h3>
 <p align="left">
