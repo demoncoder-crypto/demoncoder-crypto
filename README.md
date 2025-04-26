@@ -27,6 +27,13 @@
 
 - Elastic Search - [Link](https://github.com/elastic/elasticsearch/pulls?q=is%3Apr+author%3Ademoncoder-crypto)
 
+- <h3 align="center">BlockChain Contributions</h3>
+
+- Ethereum Go - [Link](https://github.com/ethereum/go-ethereum/pull/31665)
+
+- Open Zeppllin - [Link](https://github.com/OpenZeppelin/openzeppelin-contracts/issues/5650)
+
+
 <h3 align="left">Connect with me: dhillonprabhjitsingh@gmail.com</h3>
 <p align="left">
 </p>
