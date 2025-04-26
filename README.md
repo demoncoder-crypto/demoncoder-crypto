@@ -33,6 +33,8 @@
 
 - Open Zeppllin - [Link](https://github.com/OpenZeppelin/openzeppelin-contracts/issues/5650)
 
+- Hardhat - [Link](https://github.com/NomicFoundation/hardhat/pull/6637)
+
 
 <h3 align="left">Connect with me: dhillonprabhjitsingh@gmail.com</h3>
 <p align="left">
