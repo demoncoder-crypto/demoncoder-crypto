@@ -7,7 +7,7 @@
 
 <h3 align="center">My Open source contributions</h3>
 
-- Deepmind(Google)Torax - [(Link)](https://github.com/google-deepmind/torax/commits?author=demoncoder-crypto)
+- Deepmind(Google)Torax - [(Link)](https://github.com/google-deepmind/torax/pulls?q=is%3Apr+author%3Ademoncoder-crypto)
 
 - Deepmind(Google)Mujoco - [Link](https://github.com/google-deepmind/mujoco/pull/2540)
 
